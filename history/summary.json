@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
     "status": "down",
-    "uptime": "13.58%",
-    "uptimeDay": "13.58%",
-    "uptimeWeek": "13.58%",
-    "uptimeMonth": "13.58%",
-    "uptimeYear": "13.58%",
+    "uptime": "4.60%",
+    "uptimeDay": "4.60%",
+    "uptimeWeek": "4.60%",
+    "uptimeMonth": "4.60%",
+    "uptimeYear": "4.60%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 1
+      "2026-08-24": 4
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/euler.vitalang.net.ico",
     "slug": "euler-club-site",
     "status": "down",
-    "uptime": "16.42%",
-    "uptimeDay": "16.42%",
-    "uptimeWeek": "16.42%",
-    "uptimeMonth": "16.42%",
-    "uptimeYear": "16.42%",
+    "uptime": "5.04%",
+    "uptimeDay": "5.04%",
+    "uptimeWeek": "5.04%",
+    "uptimeMonth": "5.04%",
+    "uptimeYear": "5.04%",
     "time": 336,
     "timeDay": 336,
     "timeWeek": 336,
     "timeMonth": 336,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2026-08-24": 1
+      "2026-08-24": 4
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "email-service-part-1",
     "status": "down",
-    "uptime": "18.83%",
-    "uptimeDay": "18.83%",
-    "uptimeWeek": "18.83%",
-    "uptimeMonth": "18.83%",
-    "uptimeYear": "18.83%",
+    "uptime": "5.02%",
+    "uptimeDay": "5.02%",
+    "uptimeWeek": "5.02%",
+    "uptimeMonth": "5.02%",
+    "uptimeYear": "5.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 1
+      "2026-08-24": 4
     }
   },
   {
@@ -137,18 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "email-service-part-2",
     "status": "down",
-    "uptime": "22.05%",
-    "uptimeDay": "22.05%",
-    "uptimeWeek": "22.05%",
-    "uptimeMonth": "22.05%",
-    "uptimeYear": "22.05%",
+    "uptime": "4.97%",
+    "uptimeDay": "4.97%",
+    "uptimeWeek": "4.97%",
+    "uptimeMonth": "4.97%",
+    "uptimeYear": "4.97%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 1
+      "2026-08-24": 3
     }
   },
   {
@@ -157,18 +157,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-proxy",
     "status": "down",
-    "uptime": "33.00%",
-    "uptimeDay": "33.00%",
-    "uptimeWeek": "33.00%",
-    "uptimeMonth": "33.00%",
-    "uptimeYear": "33.00%",
+    "uptime": "5.89%",
+    "uptimeDay": "5.89%",
+    "uptimeWeek": "5.89%",
+    "uptimeMonth": "5.89%",
+    "uptimeYear": "5.89%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 0
+      "2026-08-24": 3
     }
   },
   {
@@ -177,18 +177,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vip-proxy",
     "status": "down",
-    "uptime": "46.72%",
-    "uptimeDay": "46.72%",
-    "uptimeWeek": "46.72%",
-    "uptimeMonth": "46.72%",
-    "uptimeYear": "46.72%",
+    "uptime": "5.83%",
+    "uptimeDay": "5.83%",
+    "uptimeWeek": "5.83%",
+    "uptimeMonth": "5.83%",
+    "uptimeYear": "5.83%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 0
+      "2026-08-24": 3
     }
   }
 ]
