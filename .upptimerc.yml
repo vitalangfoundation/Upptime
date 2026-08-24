@@ -19,7 +19,7 @@ sites:
   - name: Vaultwarden
     url: $VAULTWARDEN
   - name: Office Sweet
-    url: https://officesweet.vitalang.net/ajax/
+    url: https://officesweet.vitalang.net/ajax/login
   - name: Euler Club Site
     url: https://euler.vitalang.net
   - name: Email Service Part 1
