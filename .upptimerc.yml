@@ -12,8 +12,6 @@ repo: upptime # The name of this repository
 sites:
   - name: VitaLang Website
     url: https://www.vitalang.net
-  - name: Cloudflare
-    url: https://en.wikipedia.org
   - name: Matrix Server
     url: https://sweetmessaging.vitalang.net
   - name: Vaultwarden
@@ -31,7 +29,7 @@ sites:
       - 415
   - name: Main Proxy
     url: $PROXY1
-  - name: VIP Proxy
+  - name: Private Proxy
     url: $PROXY2
 
 
