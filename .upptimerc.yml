@@ -15,11 +15,11 @@ sites:
     url: https://officesweet.vitalang.net
   - name: Euler Club Site
     url: https://euler.vitalang.net
-  - name: Email Service Part 1:
+  - name: Email Service Part 1
     url: $EMAIL1
-  - name: Email Service Part 2:
+  - name: Email Service Part 2
     url: $EMAIL2
-  - name: Main Proxy:
+  - name: Main Proxy
     url: $PROXY1
   - name: VIP Proxy
     url: $PROXY2
