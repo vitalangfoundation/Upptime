@@ -26,10 +26,17 @@ sites:
     url: $EMAIL1
   - name: Email Service Part 2
     url: $EMAIL2
+    method: POST
+    expectedStatusCodes:
+      - 415
   - name: Main Proxy
+    check: "tcp-ping"
     url: $PROXY1
+    port: 443
   - name: VIP Proxy
+    check: "tcp-ping"
     url: $PROXY2
+    port: 443
 
 
 status-website:
