@@ -4,6 +4,7 @@ secrets:
   - EMAIL2
   - PROXY1
   - PROXY2
+  - NAS1
 
 # Change these first
 owner: vitalangfoundation # Your GitHub organization or username, where this repository lives
@@ -31,6 +32,8 @@ sites:
     url: $PROXY1
   - name: Private Proxy
     url: $PROXY2
+  - name: NAS 1
+    url: $NAS1
 
 
 status-website:
