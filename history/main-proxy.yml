@@ -1,7 +1,7 @@
 url: $PROXY1
-status: down
-code: 502
-responseTime: 413
-lastUpdated: 2026-09-01T13:55:01.835Z
+status: up
+code: 200
+responseTime: 421
+lastUpdated: 2026-09-01T23:08:15.582Z
 startTime: 2026-08-24T01:05:42.637Z
 generator: Upptime <https://github.com/upptime/upptime>
