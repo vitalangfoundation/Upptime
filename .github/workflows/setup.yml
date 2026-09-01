@@ -48,7 +48,7 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           # Configure the secret allowlist in .upptimerc.yml; do not edit this workflow directly.
-          SECRETS_CONTEXT: '{"VAULTWARDEN":${{ toJson(secrets.VAULTWARDEN) }},"EMAIL1":${{ toJson(secrets.EMAIL1) }},"EMAIL2":${{ toJson(secrets.EMAIL2) }},"PROXY1":${{ toJson(secrets.PROXY1) }},"PROXY2":${{ toJson(secrets.PROXY2) }}}'
+          SECRETS_CONTEXT: '{"VAULTWARDEN":${{ toJson(secrets.VAULTWARDEN) }},"EMAIL1":${{ toJson(secrets.EMAIL1) }},"EMAIL2":${{ toJson(secrets.EMAIL2) }},"PROXY1":${{ toJson(secrets.PROXY1) }},"PROXY2":${{ toJson(secrets.PROXY2) }},"NAS1":${{ toJson(secrets.NAS1) }}}'
       - name: Update summary in README
         uses: upptime/uptime-monitor@v1.43.16
         with:
