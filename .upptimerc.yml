@@ -5,6 +5,7 @@ secrets:
   - PROXY1
   - PROXY2
   - NAS1
+  - OFFICESWEET
 
 # Change these first
 owner: vitalangfoundation # Your GitHub organization or username, where this repository lives
@@ -18,7 +19,7 @@ sites:
   - name: Vaultwarden
     url: $VAULTWARDEN
   - name: Office Sweet
-    url: https://officesweet.vitalang.net/ajax/login
+    url: $OFFICESWEEET
   - name: Euler Club Site
     url: https://euler.vitalang.net
   - name: Email Service Part 1
